@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/CACV0/vipem.git/static/css/main.073c9b0a.css",
+    "main.js": "/CACV0/vipem.git/static/js/main.43853187.js",
+    "static/js/787.30cb62d8.chunk.js": "/CACV0/vipem.git/static/js/787.30cb62d8.chunk.js",
+    "static/media/logo.svg": "/CACV0/vipem.git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/CACV0/vipem.git/index.html",
+    "main.073c9b0a.css.map": "/CACV0/vipem.git/static/css/main.073c9b0a.css.map",
+    "main.43853187.js.map": "/CACV0/vipem.git/static/js/main.43853187.js.map",
+    "787.30cb62d8.chunk.js.map": "/CACV0/vipem.git/static/js/787.30cb62d8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.43853187.js"
+  ]
+}
